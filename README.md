@@ -24,4 +24,5 @@ We can maintain back stack of fragment which can be accessible later.
    * We can add name to this back stack and we can access this fragment by name later.
      Otherwise we can pass null to parameter*/
     fragmentTwoTransaction.addToBackStack(null);  
+	
 
